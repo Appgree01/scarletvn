@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tqm.scarlet</string>
+				<string>com.lol.scarlet</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>Ông Cễnh</string>
+				<string>Scarletlol</string>
 				<key>title</key>
-				<string>Scarlet TQM</string>
+				<string>Scarletngon</string>
 			</dict>
 		</dict>
 	</array>
