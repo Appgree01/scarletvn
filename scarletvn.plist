@@ -16,26 +16,32 @@
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
 					<key>url</key>
-					<string>https://usescarlet.com/CydiaIcon.png</string>
+					<string>http://tqm-ipa.github.io/icon/dangtai.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
 					<key>url</key>
-					<string>https://usescarlet.com/CydiaIcon.png</string>
+					<string>http://tqm-ipa.github.io/icon/scarlet.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.946b7748-eaa4-4583-9b7f-ad0e49f53ede</string>
+				<string>com.tqm.scarlet</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>subtitle</key>
+				<string>Ông Cễnh</string>
 				<key>title</key>
-				<string>Scarlet</string>
+				<string>Scarlet TQM</string>
 			</dict>
 		</dict>
 	</array>
