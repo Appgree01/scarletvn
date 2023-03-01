@@ -14,5 +14,6 @@ itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/
 itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/Appgree01/scarletvn/main/scarletpremium.plist
 itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/Appgree01/scarletvn/main/scarlet4.plist
 
+
 itms-services://?action=download-manifest&url= https://sign.codevn.net/files/xj2al-rkt8v-tjac0-rvhb/app.plist
 itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/Appgree01/scarletvn/main/scarletpro.plist
