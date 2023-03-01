@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/Appgree01/scarletvn/blob/main/Scarlet%20Elite_1.0.ipa</string>
+					<string>https://github.com/Appgree01/scarletvn/blob/main/ScarletVNPT.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -23,19 +23,19 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/Appgree01/scarletvn/main/44F6F75C-F4A3-4860-B6E1-8C48DCAEE315.png</string>
+					<string>https://usescarlet.com/CydiaIcon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.scarlight.ahihi</string>
+				<string>com.scarlet.life.pro</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Scarlet Elite Premium</string>
+				<string>Scarlet Elite Pro</string>
 			</dict>
 		</dict>
 	</array>
