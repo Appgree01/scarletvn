@@ -1,0 +1,17 @@
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/Appgree01/scarletvn/main/scarletvn.plist
+
+https://raw.githubusercontent.com/Appgree01/scarletvn/main/Scarlet_1.0.ipa
+
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/Appgree01/scarletvn/main/scarlet1.plist
+
+https://mate.beyonderluu.com reg mate
+
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/Appgree01/scarletvn/main/scarlet2.plist
+
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/Appgree01/scarletvn/main/scarlet3.plist
+
+
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/Appgree01/scarletvn/main/scarlet4.plist
+
+itms-services://?action=download-manifest&url= https://sign.codevn.net/files/xj2al-rkt8v-tjac0-rvhb/app.plist
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/Appgree01/scarletvn/main/scarletpro.plist
